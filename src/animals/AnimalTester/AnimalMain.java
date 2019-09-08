@@ -6,7 +6,7 @@ import animals.zoo.Bird;
 
 import java.util.ArrayList;
 
-public class AnimalTester {
+public class AnimalMain {
 
     public static void main(String[] args) {
 
