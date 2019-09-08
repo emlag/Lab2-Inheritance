@@ -10,7 +10,7 @@ public class AnimalMain {
 
     public static void main(String[] args) {
 
-        //TODO 0: Implement all of the necessary
+        //Implement the following, TODO 1 has been done for you:
 
         //TODO 1: An arraylist of animals that can jump
         ArrayList<Jumpable> myJumpingFriends = new ArrayList<>();
@@ -49,13 +49,12 @@ public class AnimalMain {
         //1 Whale and 2 Fish to the coolZoo list.
 
 
-
         //TODO 9: Run the following loop and put the whole zoo to sleep.
 
-        for(Animal anml: coolZoo)
-        {
-            System.out.println(anml.getName() + " says " + anml.goToSleep() );
-        }
+//        for(Animal anml: coolZoo)
+//        {
+//            System.out.println(anml.getName() + " says " + anml.goToSleep() );
+//        }
 
     }
 }
