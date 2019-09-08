@@ -1,4 +1,5 @@
 package animals.zoo;
 
-public class Salmon extends Fish {
+public class Salmon 
+{
 }

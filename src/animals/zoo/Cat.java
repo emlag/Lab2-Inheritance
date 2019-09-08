@@ -2,10 +2,7 @@ package animals.zoo;
 
 import animals.iface.Huggable;
 
-public class Cat extends Feline implements Huggable {
+public class Cat 
+{
 
-    @Override
-    public String hugged() {
-        return "thanks";
-    }
 }

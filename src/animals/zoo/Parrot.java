@@ -1,4 +1,5 @@
 package animals.zoo;
 
-public class Parrot extends Bird {
+public class Parrot
+{
 }

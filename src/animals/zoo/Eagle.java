@@ -1,4 +1,5 @@
 package animals.zoo;
 
-public class Eagle extends Bird {
+public class Eagle
+{
 }
